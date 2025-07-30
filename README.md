@@ -1,2 +1,2 @@
-# falsk_users_project_with_db
-falsk project done with my sql db
+# flask_users_project_with_db
+flask project done with my sql db
